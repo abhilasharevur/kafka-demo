@@ -91,3 +91,11 @@ postgresql server.
 >>> len(res)
 # 7226
 ```
+### References
+
+1. <https://github.com/dpkp/kafka-python>
+2. <https://kafka-python.readthedocs.io/en/master/apidoc/KafkaConsumer.html>
+3. <https://help.aiven.io/en/articles/489573-getting-started-with-aiven-postgresql>
+4. <https://help.aiven.io/en/articles/489572-getting-started-with-aiven-kafka>
+5. <https://www.confluent.io/what-is-apache-kafka>
+
