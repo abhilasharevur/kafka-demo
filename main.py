@@ -14,7 +14,7 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # append site package path (virtual env)
-#sys.path.append('./lib/python3.8/site-packages/')
+# sys.path.append('./lib/python3.8/site-packages/')
 print(sys.path)
 
 
